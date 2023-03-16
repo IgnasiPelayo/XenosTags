@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "XenosTags",
+	"Description": "Xenos tags are runtime defined values that aim to be added to a tags container permanently or temporarily. These tags can also store different data such as int, float, bool, double or void*.",
+	"Category": "Xenos",
+	"CreatedBy": "Ignasi Pelayo",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "XenosTags",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
